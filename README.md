@@ -59,8 +59,6 @@ The timer provides periodic scheduling. The collected sensor readings are proces
 - `timer_int.c` – Timer interrupt implementation
 - `header.h` – Header file
 
-*The filenames above should match the actual uploaded source files.*
-
 ## 8. Applications
 
 - Environmental monitoring
